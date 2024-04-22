@@ -10,6 +10,27 @@
         "title": "Build Todo App",
         "description": "Create a simple todo application using React, where users can add, delete, and mark todos as completed."
       }
+    ],
+    "menu": [
+      {
+        "Title": "Margherita Pizza",
+        "Description": "A classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves. It's known for its simplicity and delicious flavor.",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWz14C4SeJL4eYjy51lbuIwQ4VFzXww0zCUv4lbugsg&s",
+        "Rating": 5
+      },
+      {
+        "Title": "Grilled Salmon",
+        "Description": "Fresh salmon fillet grilled to perfection, seasoned with herbs and spices. Served with a side of roasted vegetables and lemon wedges.",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7CgD41cadTPvsgL8hN1He6eATYHefxFbxyyONZIZzGA&s",
+        "Rating": 4
+      },
+      {
+        "Title": "Chicken Tikka Masala",
+        "Description": "A popular Indian dish consisting of roasted chicken chunks (tikka) served in a rich, creamy, tomato-based sauce. It's typically seasoned with various spices and is often served with rice or naan bread.",
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnV6EEMRjRx629jf9DDBRTeJK7ux_FIoGlIceQwykSXQ&s",
+        "Rating": 4
+      }
     ]
+    
   }
   
